@@ -16,7 +16,7 @@ Now Listening:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dominicwhye&label=Profile%20views&color=891ec2&style=plastic" alt="dominicwhye" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dominicwhye" alt="dominicwhye" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
