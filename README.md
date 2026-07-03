@@ -1,6 +1,9 @@
 ## Hi there 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+I'm+Dominic+Whye;Computer+Science+Student;Welcome+to+my+page!)](https://git.io/typing-svg)
 
+Socials:
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
 <!--
 **DominicWhye/DominicWhye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
