@@ -12,11 +12,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dominicwhye&label=Profile%20views&color=891ec2&style=plastic" alt="dominicwhye" /> </p>
 
 ###
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=DominicWhye&rank_icon=github&show_icons=true&include_all_commits=true&theme=github_dark)](https://github-stats-extended.vercel.app/api?username=DominicWhye&rank_icon=github&show_icons=true&include_all_commits=true&theme=github_dark)
 
-<div data-importer="stats" align="left">
-  <img src="https://raw.githubusercontent.com/DominicWhye/DominicWhye/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-</div>
-
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=DominicWhye&layout=compact&langs_count=8&theme=github_dark)](https://github-stats-extended.vercel.app/api/top-langs?username=DominicWhye&layout=compact&langs_count=8&theme=github_dark)
 ###
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dominicwhye&theme=dark" alt="dominicwhye" /></p>
