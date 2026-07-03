@@ -2,7 +2,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+I'm+Dominic+Whye;Computer+Science+Student;Welcome+to+my+page!)](https://git.io/typing-svg)
 
 
-
+Now Listening:
+[![Spotify](https://spotify-eta-five.vercel.app/api/orchestrator)](https://open.spotify.com/user/Dominicwhye)
 
 ![snake gif](https://github.com/DominicWhye/DominicWhye/blob/output/github-snake-dark.svg)
 
