@@ -1,4 +1,5 @@
 ## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+I'm+Dominic+Whye;Computer+Science+Student)](https://git.io/typing-svg)
 
 <!--
 **DominicWhye/DominicWhye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
