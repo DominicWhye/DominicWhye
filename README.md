@@ -14,7 +14,7 @@ Now Listening:
 <h3 align="center">A Cybersecurity Student from UOW</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzh5ZDJncWljaXBvdXoyNHVveW9mdm91bWQxc3ZhZnFpc3lsemluMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P7JmDW7IkB7TW/giphy.gif">
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dominicwhye&label=Profile%20views&color=891ec2&style=plastic" alt="dominicwhye" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dominicwhye" alt="dominicwhye" /></a> </p>
 
