@@ -1,22 +1,16 @@
-## Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+I'm+Dominic+Whye;Computer+Science+Student;Welcome+to+my+page!)](https://git.io/typing-svg)
-
-
-Now Listening:
-[![Spotify](https://spotify-eta-five.vercel.app/api/orchestrator)](https://open.spotify.com/user/Dominicwhye)
-
-![snake gif](https://github.com/DominicWhye/DominicWhye/blob/output/github-snake-dark.svg)
-
-
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+I'm+Dominic+Whye;Computer+Science+Student;Welcome+to+my+page!)](https://git.io/typing-svg)
 <h3 align="center">A Cybersecurity Student from UOW</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzh5ZDJncWljaXBvdXoyNHVveW9mdm91bWQxc3ZhZnFpc3lsemluMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P7JmDW7IkB7TW/giphy.gif">
 
+Now Listening:
+[![Spotify](https://spotify-eta-five.vercel.app/api/orchestrator)](https://open.spotify.com/user/Dominicwhye)
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dominicwhye&label=Profile%20views&color=891ec2&style=plastic" alt="dominicwhye" /> </p>
 
-
+![snake gif](https://github.com/DominicWhye/DominicWhye/blob/output/github-snake-dark.svg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
