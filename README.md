@@ -1,18 +1,10 @@
-<img src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODMzMzM5NDMsIm5iZiI6MTc4MzMzMzY0MywicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA3MDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNzA2VDEwMjcyM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNiMzMyMDU0ZDk5MTU5Yjg1Y2YwZjI3Y2UyNWU5MmJjOWY5MWQ4YWFlMGNjNTdhOTI4NzIwN2I2YjU5NWNjNGEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.8I_4T2rZxtX3_p9rlR9l32eXVxZbxR2Nxu-ev7kgTeU" height="240" width="2000">
-
-
-
+<img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art/spring%20day.gif" height="150" width="2000">
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+I'm+Dominic+Whye;Computer+Science+Student;Welcome+to+my+page!)](https://git.io/typing-svg)
 
 
-
-<h3>Now Listening:</h3>
-
-[![Spotify](https://spotify-eta-five.vercel.app/api/orchestrator)](https://open.spotify.com/user/Dominicwhye)
  
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dominicwhye&label=Profile%20views&color=891ec2&style=plastic" alt="dominicwhye" /> </p>
 
 ###
@@ -20,6 +12,10 @@
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=DominicWhye&layout=compact&langs_count=8&theme=github_dark)](https://github-stats-extended.vercel.app/api/top-langs?username=DominicWhye&layout=compact&langs_count=8&theme=github_dark)
 ###
+
+<h3>Now Listening:</h3>
+
+[![Spotify](https://spotify-eta-five.vercel.app/api/orchestrator)](https://open.spotify.com/user/Dominicwhye)
 
 
 <h3 align="left">Connect with me:</h3>
