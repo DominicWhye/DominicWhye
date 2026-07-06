@@ -1,4 +1,4 @@
-<img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art/spring%20day.gif" height="150" width="2000">
+<img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art/spring%20day.gif" height="150" width="2100">
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+I'm+Dominic+Whye;Computer+Science+Student;Welcome+to+my+page!)](https://git.io/typing-svg)
