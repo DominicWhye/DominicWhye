@@ -1,3 +1,5 @@
+<img src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODMzMzM5NDMsIm5iZiI6MTc4MzMzMzY0MywicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA3MDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNzA2VDEwMjcyM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNiMzMyMDU0ZDk5MTU5Yjg1Y2YwZjI3Y2UyNWU5MmJjOWY5MWQ4YWFlMGNjNTdhOTI4NzIwN2I2YjU5NWNjNGEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.8I_4T2rZxtX3_p9rlR9l32eXVxZbxR2Nxu-ev7kgTeU" height="220" width="2000"> 
+
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+I'm+Dominic+Whye;Computer+Science+Student;Welcome+to+my+page!)](https://git.io/typing-svg)
@@ -20,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dominicwhye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dominicwhye" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dominicwhye" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="dominicwhye" height="40" width="40" /></a>
 </p>
 
 <h3 align="left" width="800">Languages and Tools:</h3>
