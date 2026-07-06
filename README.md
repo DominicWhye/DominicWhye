@@ -17,7 +17,7 @@
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=DominicWhye&layout=compact&langs_count=8&theme=github_dark)](https://github-stats-extended.vercel.app/api/top-langs?username=DominicWhye&layout=compact&langs_count=8&theme=github_dark)
 ###
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dominicwhye&theme=dark" alt="dominicwhye" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dominicwhye&theme=dark" alt="dominicwhye" /></p>  -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
